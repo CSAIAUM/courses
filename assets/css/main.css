@@ -106,6 +106,7 @@ a {
   /* 1 */
   -webkit-text-decoration-skip: objects;
   font-family: Vazir;
+  text-decoration: none
   /* 2 */
 }
 
