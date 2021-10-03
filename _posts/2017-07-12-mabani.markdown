@@ -1,0 +1,76 @@
+---
+layout: post
+title: "مبانی برنامه نویسی"
+img: flowchart.jpg # Add image post (optional)
+date: 2017-07-12 12:54:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [مبانی برنامه نویسی]
+---
+
+برای رفتن به صفحه مربوط به هر استاد بر روی اسم آن استاد کلیک کنید.
+
+
+## لیست اساتید
+
+
+<header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/person.png">
+    <a href=""  target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    خانم دکتر علامتیان
+    </h1>
+    </a>
+</header>
+
+
+
+  <header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/person.png">
+    <a href=""  target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    آقای مهندس علوی
+    </h1>
+    </a>
+  </header>
+
+
+  <header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/shadroo.jpg">
+    <a href="https://csaiaum.github.io/teach/shadroo" target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    خانم دکتر شادرو
+    </h1>
+    </a>
+  </header>
+
+
+
+  <header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/person.png">
+    <a href=""  target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    خانم مهندس برادران
+    </h1>
+    </a>
+  </header>
+
+
+  <header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/person.png">
+    <a href=""  target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    آقای دکتر شیبانی
+    </h1>
+    </a>
+  </header>
+
+
+  <header>
+    <img align="right" class="img-fluid z-depth-1" style="border-radius: 50%; height: 50px; width: 50px;" src="../assets/img/person.png">
+    <a href=""  target="_blank">
+    <h1 class="post-title" dir="rtl" align="right" style="margin-right: 70px; font-size:20px" >
+    خانم دکتر شیبانی
+    </h1>
+    </a>
+  </header>
+
